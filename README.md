@@ -97,6 +97,9 @@ Before you begin, ensure you have met the following requirements:
     ```
 5. Open your web browser and navigate to `http://localhost:5000` to view the application.
 
+## Screenshots:
+<img width="1280" alt="Screenshot 2024-03-15 at 00 03 59" src="https://github.com/srikavya26/Web-App/assets/95865936/59f2a0c1-d982-403b-8312-5ec205675488">
+
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the contribution guidelines.
 
