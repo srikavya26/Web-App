@@ -69,6 +69,17 @@ Before you begin, ensure you have met the following requirements:
     ```bash
     pip install -r requirements.txt
     ```
+## File and Folder structure 
+| File/Folder          | Description                                     |
+|----------------------|-------------------------------------------------|
+| `app`               | Main application directory.                     |
+| `app.py`          | Main file for the application. |
+| `data_users.db`        | SQLite database file for the application.       |
+| `static/`            | Directory for static files.                     |
+| `static/css/`        | Directory for CSS stylesheets.                  |
+| `static/css/style.css` | CSS stylesheet for the application.          |
+| `templates/`         | Directory for HTML templates.                   |
+| `templates/index.html` | HTML file for the main page of the application. |
 
 ## Usage
 1. Ensure you have Python installed on your system.
@@ -77,10 +88,12 @@ Before you begin, ensure you have met the following requirements:
     ```bash
     python app.py
     ```
+    or
+   
     ```bash
     flask run
     ```
-4. Open your web browser and navigate to `http://localhost:5000` to view the application.
+5. Open your web browser and navigate to `http://localhost:5000` to view the application.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the contribution guidelines.
