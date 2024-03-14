@@ -10,6 +10,8 @@
 7. [License](#license)
 
 ## Introduction
+This is an basic web application that allows users to input data, validate it, store it in a
+database, retrieve it, and display it in a table format.
 This web application is built using Python with Flask framework.
 SQLite is used as the database management system.
 It utilizes HTML and CSS for structure and styling respectively. 
